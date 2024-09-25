@@ -1,0 +1,16 @@
+{
+  "name": "Online Chess Clock",
+  "short_name": "Online Chess Clock",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#517525",
+  "theme_color": "#7e7c7a",
+  "description": "Online Chess Clock for 2 players",
+  "icons": [
+    {
+      "src": "/images/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
